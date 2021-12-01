@@ -1,4 +1,4 @@
-[[Header](https://github.com/abylaip/abylaip/blob/main/assets/header.png)](https://www.linkedin.com/in/abylay-aiyp/)
+[Header](https://github.com/abylaip/abylaip/blob/main/assets/header.png)
 
 About me
 
