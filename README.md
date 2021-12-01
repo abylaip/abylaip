@@ -1,7 +1,14 @@
 [![Header](https://github.com/abylaip/abylaip/blob/main/assets/header.png)](https://www.linkedin.com/in/abylay-aiyp/)
 
-About me
+## I am a Software Developer with the ability to learn new procedures quickly and efficiently from Almaty, Kazakhstan
 
-Languages and Tools
+### Languages and Tools
+
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Sql](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 
 Follow me
