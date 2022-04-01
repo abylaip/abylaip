@@ -1,6 +1,6 @@
 [![Header](https://github.com/abylaip/abylaip/blob/main/assets/header.png)](https://www.linkedin.com/in/abylay-aiyp/)
 
-## I am a Software Developer with the ability to learn new procedures quickly and efficiently from Almaty, Kazakhstan
+## I am a Software Developer with the ability to learn new procedures quickly and efficiently from Kazakhstan
 
 ### Languages and Tools
 
