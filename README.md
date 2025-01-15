@@ -6,7 +6,7 @@
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-# ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift)
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
 ![Sql](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
